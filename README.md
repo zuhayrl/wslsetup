@@ -12,4 +12,4 @@ wsl --install
 ```
 
 It should look like this:
-<img alt="Installation Screen" src="https://i0.wp.com/pureinfotech.com/wp-content/uploads/2020/11/install-wsl-windows-11-command.jpg?w=1011&quality=78&strip=all&ssl=1">
+<img width="600" alt="Installation Screen" src="https://i0.wp.com/pureinfotech.com/wp-content/uploads/2020/11/install-wsl-windows-11-command.jpg?w=1011&quality=78&strip=all&ssl=1">
