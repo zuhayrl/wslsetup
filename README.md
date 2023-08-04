@@ -14,3 +14,22 @@ wsl --install
 It should look like this:
 
 <img width="600" alt="Installation Screen" src="https://i0.wp.com/pureinfotech.com/wp-content/uploads/2020/11/install-wsl-windows-11-command.jpg?w=1011&quality=78&strip=all&ssl=1">
+
+You will then need to restart your computer.
+
+Then type this to see a list of the distributions that are currently available:
+
+```sh
+wsl --list --online
+```
+
+You should get the following:
+
+<img width="600" alt="Installation Screen" src="https://www.itprotoday.com/sites/itprotoday.com/files/WSL%201.jpg">
+
+Now you will need to choose the distro you would like to use, I recommend Ubuntu.
+To install the chosen distro  type the following: (replace Ubuntu the your distro of choice)
+
+```sh
+wsl --install -d Ubuntu
+```
