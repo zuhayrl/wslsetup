@@ -33,3 +33,13 @@ To install the chosen distro  type the following: (replace Ubuntu the your distr
 ```sh
 wsl --install -d Ubuntu
 ```
+
+Now type the name of your distro in the command prompt: (for example Ubuntu)
+
+```sh
+Ubuntu
+```
+
+It will prompt you to enter a username and password, these will be exclusively for Ubuntu and do not need to match your computer credentials, etc.
+
+Now you're set to go :)
