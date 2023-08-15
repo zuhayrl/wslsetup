@@ -1,6 +1,10 @@
 # WSL Setup
 A quick simple guide to download setup WSL (Windows Subsystem for Linux)
 
+## Pre-Installation
+Before installing WSL go to the search bar in the start menu and type: "turn windows features on or off". Click on the corresponding "app" and then find Windows Subsystem for Linux. Check the Box.
+Now you're ready to install WSL.
+
 ## Installation
 The easiest way to install WSL is through the command prompt/terminal. The command prompt can be opened by pressing Windows Key + R. A small window will open and there will be a textbox next to the words "Open". Type "cmd" in the textbox and press enter.
 Alternatively, you can open the command prompt by searching for it in the start menu.
